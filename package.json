@@ -1,0 +1,21 @@
+{
+    "name": "com.tnt.dungen",
+    "version": "0.0.1",
+    "displayName": "DunGen",
+    "description": "Mission graph generator and dungeon randomizer pipeline",
+    "unity": "2021.1",
+    "keywords": [
+      "Boss Keys",
+      "Dungeon",
+      "Generator",
+      "GMTK",
+      "Mark Brown",
+      "Mission Graph",
+      "Procedural",
+      "ProcGen",
+      "Random"
+    ],
+    "author": {
+      "name": "Dynamite Digital"
+    }
+}
